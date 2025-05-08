@@ -6,15 +6,13 @@
 ![Wheels of Fortune by Pacita Abad](assets/Pacita%20Abad%20Wheels%20of%20fortune.jpg)
 
 **Inspiration Source**:*Circle Pattern by Lee Doughty*
- Screenshot1:
 ![Screenshot1](assets/screenshot1.png)
- Screenshot2:
 ![Screenshot2](assets/screenshot2.png)
-This sketch features colorful concentric circles that regenerate in response to mouse clicks. The simple interactions trigger rich visual changes. I plan to incorporate this “concentric structure” technique into my final project (Wheels of Fortune), as it aligns with my goal of creating a dynamic, joyful, and culturally expressive visual experience.
+This sketch features colorful concentric circles that regenerate in response to mouse clicks. The simple interactions trigger rich visual changes. I plan to incorporate this “concentric structure + randomness” technique into my final project (Wheels of Fortune), as it aligns with my goal of creating a dynamic, joyful, and culturally expressive visual experience.
 
 ### Coding Technique Exploration
-**Technique** : *Radial Pattern Generation using Polar Coordinates*
+**Technique** : *Randomization for Visual Variation*
 
-Using polar coordinates and concentric loop logic makes it easier to create radial patterns, as seen in the OpenProcessing example. This technique helps me draw repeated elements around a center point, which is essential for building “wheel-like” motifs. It simplifies complex geometric design into a few nested loops and helps express cultural pattern symmetry digitally.
-
+In this project, I use randomness to generate unexpected variations in shape, color, and pattern. Each concentric circle pattern is created with a random number of layers, randomly chosen colors, and variable sizes. Additionally, mouse clicks trigger new randomly generated designs in specific areas. This technique not only adds spontaneity and uniqueness to every interaction, but also echoes the lively, handcrafted feeling found in works like Wheels of Fortune. 
+![Code screenshot](assets/screenshot3.png)
 [Code Link](https://openprocessing.org/sketch/2325929)
