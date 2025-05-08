@@ -13,6 +13,6 @@ This sketch features colorful concentric circles that regenerate in response to 
 ### Coding Technique Exploration
 **Technique** : *Randomization for Visual Variation*
 
-In this project, I use randomness to generate unexpected variations in shape, color, and pattern. Each concentric circle pattern is created with a random number of layers, randomly chosen colors, and variable sizes. Additionally, mouse clicks trigger new randomly generated designs in specific areas. This technique not only adds spontaneity and uniqueness to every interaction, but also echoes the lively, handcrafted feeling found in works like Wheels of Fortune. 
+In this project, I will use randomness to generate unexpected variations in shape, color, and pattern. Each concentric circle pattern is created with a random number of layers, randomly chosen colors, and variable sizes. Additionally, mouse clicks trigger new randomly generated designs in specific areas.
 ![Code screenshot](assets/screenshot3.png)
 [Code Link](https://openprocessing.org/sketch/2325929)
